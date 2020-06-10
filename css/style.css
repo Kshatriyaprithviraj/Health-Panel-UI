@@ -8,7 +8,7 @@
 }
 
 body    {
-    background: url('/img/sunset.jpg');
+    background: url('../img/sunset.jpg');
     color: black;
     font-family: 'Raleway';
 }
@@ -70,9 +70,9 @@ p   {
 }
 
 .bg1    {
-    background: url('/img/beach.jpg');
+    background: url('../img/beach.jpg');
 }
 
 .bg2    {
-    background: url('/img/orchid.jpg');
+    background: url('../img/orchid.jpg');
 }
